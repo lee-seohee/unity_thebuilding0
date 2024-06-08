@@ -16,3 +16,7 @@ Assets 폴더에 내 폴더 만들어서 그 안에 작업물 저장, 정리하�
 
 #발표 자료 제작하기(~5/31)
 * 제작 완료
+
+#게임 실행 방법
+* master 브랜치의 The Building 0.zip을 다운 받고 압축을 푼 후 Build/The Building 0.exe 실행
+* Windows 보호 창이 나온다면 추가정보-실행
